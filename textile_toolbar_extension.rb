@@ -1,4 +1,3 @@
-# Uncomment this if you reference any of your controllers in activate
 require_dependency 'application'
 
 class TextileToolbarExtension < Radiant::Extension
